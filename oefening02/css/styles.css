@@ -1,0 +1,15 @@
+body {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.rood {
+  color: crimson;
+}
